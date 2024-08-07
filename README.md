@@ -1,8 +1,4 @@
 # Flutter Habit Tracker App UI + Backend
-<img width="320" alt="habit1" src="https://github.com/MonsieurZbanowanYY/Habit-Tracker-App-Flutter/assets/81767518/2acb33f8-7bd9-47b9-8a79-6209d684867a">
-<img width="320" alt="habit2" src="https://github.com/MonsieurZbanowanYY/Habit-Tracker-App-Flutter/assets/81767518/09e97654-d4dc-4044-a04f-1b1399dd7ebb">
-<img width="320" alt="habit3" src="https://github.com/MonsieurZbanowanYY/Habit-Tracker-App-Flutter/assets/81767518/8e236b8e-c6a7-4928-b397-5af64f74a294">
-<img width="320" alt="habit4" src="https://github.com/MonsieurZbanowanYY/Habit-Tracker-App-Flutter/assets/81767518/e79847ef-7a4b-4121-8ac9-d75c5a0220c5">
 
 ## Features and dependencies:
 - Dark and Light Mode friendly
